@@ -1,0 +1,14 @@
+.main {
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.login-box {
+    width: 500px;
+    border: solid 1px;
+    padding: 30px;
+}
+
+form div {
+    margin-bottom: 15px;
+}
